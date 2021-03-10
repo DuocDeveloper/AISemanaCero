@@ -1,0 +1,17 @@
+appdirs==1.4.4
+astroid==2.5.1
+colorama==0.4.4
+distlib==0.3.1
+filelock==3.0.12
+imutils==0.5.4
+install==1.3.4
+isort==5.7.0
+lazy-object-proxy==1.5.2
+mccabe==0.6.1
+numpy==1.20.1
+opencv-python==4.5.1.48
+pylint==2.7.2
+six==1.15.0
+toml==0.10.2
+virtualenv==20.4.2
+wrapt==1.12.1
